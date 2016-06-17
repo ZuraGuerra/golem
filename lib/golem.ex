@@ -1,0 +1,2 @@
+defmodule Golem do
+end
